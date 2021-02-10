@@ -805,6 +805,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/sailfish/proprietary/vendor/lib64/libxml.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libxml.so \
     vendor/google/sailfish/proprietary/vendor/media/LMspeed_508.emd:$(TARGET_COPY_OUT_VENDOR)/media/LMspeed_508.emd \
     vendor/google/sailfish/proprietary/vendor/media/PFFprec_600.emd:$(TARGET_COPY_OUT_VENDOR)/media/PFFprec_600.emd \
+    vendor/google/sailfish/proprietary/vendor/lib64/pixel-power-ext-V1-ndk_platform.so:$(TARGET_COPY_OUT_VENDOR)/lib64/pixel-power-ext-V1-ndk_platform.so \
     vendor/google/sailfish/proprietary/vendor/qcril.db:$(TARGET_COPY_OUT_VENDOR)/qcril.db \
     vendor/google/sailfish/proprietary/vendor/qcril_database/upgrade/1_version_intro.sql:$(TARGET_COPY_OUT_VENDOR)/qcril_database/upgrade/1_version_intro.sql \
     vendor/google/sailfish/proprietary/vendor/qcril_database/upgrade/2_db_upgrade.sql:$(TARGET_COPY_OUT_VENDOR)/qcril_database/upgrade/2_db_upgrade.sql \
