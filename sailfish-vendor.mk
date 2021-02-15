@@ -39,7 +39,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/sailfish/proprietary/lib64/libimsmedia_jni.so:system/lib64/libimsmedia_jni.so \
     vendor/google/sailfish/proprietary/lib64/librcc.so:system/lib64/librcc.so \
     vendor/google/sailfish/proprietary/lib64/vendor.qti.atcmdfwd@1.0.so:system/lib64/vendor.qti.atcmdfwd@1.0.so \
-    vendor/google/sailfish/proprietary/lib64/vendor.qti.qcril.am@1.0.so:system/lib64/vendor.qti.qcril.am@1.0.so \
+    vendor/google/sailfish/proprietary/lib64/vendor.qti.qcril.am@1.0.so:vendor/lib64/vendor.qti.qcril.am@1.0.so \
     vendor/google/sailfish/proprietary/product/etc/CarrierSettings/airtel_in.pb:system/product/etc/CarrierSettings/airtel_in.pb \
     vendor/google/sailfish/proprietary/product/etc/CarrierSettings/att5g_us.pb:system/product/etc/CarrierSettings/att5g_us.pb \
     vendor/google/sailfish/proprietary/product/etc/CarrierSettings/att_us.pb:system/product/etc/CarrierSettings/att_us.pb \
