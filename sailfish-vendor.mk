@@ -803,6 +803,8 @@ PRODUCT_COPY_FILES += \
     vendor/google/sailfish/proprietary/vendor/lib64/libwms.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwms.so \
     vendor/google/sailfish/proprietary/vendor/lib64/libwvhidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwvhidl.so \
     vendor/google/sailfish/proprietary/vendor/lib64/libxml.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libxml.so \
+    vendor/google/sailfish/proprietary/vendor/lib64/vendor.qti.atcmdfwd@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.atcmdfwd@1.0.so \
+    vendor/google/sailfish/proprietary/vendor/lib64/vendor.qti.qcril.am@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.qcril.am@1.0.so \
     vendor/google/sailfish/proprietary/vendor/media/LMspeed_508.emd:$(TARGET_COPY_OUT_VENDOR)/media/LMspeed_508.emd \
     vendor/google/sailfish/proprietary/vendor/media/PFFprec_600.emd:$(TARGET_COPY_OUT_VENDOR)/media/PFFprec_600.emd \
     vendor/google/sailfish/proprietary/vendor/lib64/pixel-power-ext-V1-ndk_platform.so:$(TARGET_COPY_OUT_VENDOR)/lib64/pixel-power-ext-V1-ndk_platform.so \
